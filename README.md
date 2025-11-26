@@ -93,4 +93,4 @@ Workout-Tracker/
 8. Контактная информация
 
 - Email: avedyanvalern@gmail.com
-- GitHub: 
+- GitHub: https://github.com/ValeryAvedyan
