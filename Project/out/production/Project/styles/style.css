@@ -1,0 +1,45 @@
+.root {
+    -fx-font-family: "Arial";
+}
+
+.button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 8 15;
+}
+
+.button:hover {
+    -fx-background-color: #2980b9;
+}
+
+.table-view {
+    -fx-border-color: #bdc3c7;
+}
+
+.table-view .column-header {
+    -fx-background-color: #34495e;
+    -fx-text-fill: white;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f8f9fa;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #e9ecef;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: #34495e;
+}
+
+.tab {
+    -fx-background-color: #95a5a6;
+    -fx-text-fill: white;
+}
+
+.tab:selected {
+    -fx-background-color: #3498db;
+}
